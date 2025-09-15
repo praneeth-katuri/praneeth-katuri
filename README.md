@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Praneeth Katuri
 
-**Aspiring Web Developer | MERN Stack Enthusiast | Problem Solver**
+**Freelance Web Developer | MERN Stack Enthusiast | Problem Solver**
 
 </div>
 
@@ -16,8 +16,7 @@
 
 <p align="center">
 Self-taught web developer focused on building responsive, scalable applications.<br>
-Learning new technologies every day and sharpening my backend and frontend skills.<br>
-Open to collaboration and always eager to contribute to real-world projects.
+Always learning new technologies every day and sharpening my skills.
 </p>
 
 ---
@@ -131,7 +130,7 @@ Open to collaboration and always eager to contribute to real-world projects.
 </p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jkkljkl">
+  <a href="#">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
